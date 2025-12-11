@@ -9,6 +9,7 @@ My research spans visualization, visual analytics, machine learning, urban compu
 - [VisTrailsJL](https://github.com/ctsilva/VisTrailsJL), a modern Julia reimplementation of VisTrails for scientific workflow and provenance management, preserving 20 years of research from the University of Utah.
 - 🚕 [TaxiVis](https://github.com/ctsilva/TaxiVis), a visual analytics application for exploring NYC taxi trip data using Qt5 and OpenGL.
 - [afront](https://github.com/ctsilva/afront), an advancing front triangulation algorithm for high-quality adaptive surface meshing and remeshing.
+- [ltfs-tools](https://github.com/ctsilva/ltfs-tools), tools for working with Linear Tape File System (LTFS) formatted LTO tapes.
 - [OpenSpace](https://github.com/OpenSpace/OpenSpace), open-source interactive visualization software for space exploration, deployed in 17+ planetariums worldwide. A collaboration with NASA, AMNH, and others.
 
 More projects coming soon!
