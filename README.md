@@ -1,8 +1,8 @@
 ### Hey there! 👋
 
-[![Website](https://img.shields.io/badge/visit%20my-website-blueviolet)](https://ctsilva.github.io/) [![Twitter](https://img.shields.io/twitter/follow/csilvanyc?style=social)](https://twitter.com/csilvanyc) [![LinkedIn](https://img.shields.io/badge/linked-in-informational)](https://www.linkedin.com/in/claudio-silva-839634) [![Google Scholar](https://img.shields.io/badge/google-scholar-success)](https://scholar.google.com/citations?user=YIwiAAsAAAAJ)
+[![Website](https://img.shields.io/badge/visit%20my-website-blueviolet)](https://ctsilva.github.io/) [![LinkedIn](https://img.shields.io/badge/linked-in-informational)](https://www.linkedin.com/in/claudio-silva-839634) [![Google Scholar](https://img.shields.io/badge/google-scholar-success)](https://scholar.google.com/citations?user=YIwiAAsAAAAJ)
 
-I'm Claudio Silva, Institute Professor of Computer Science and Data Science at New York University, where I direct the [Visualization Imaging and Data Analysis (VIDA) Center](http://vida.engineering.nyu.edu). I'm an ACM Fellow (2024), IEEE Fellow (2013), and recipient of the IEEE Visualization Technical Achievement Award (2014). I also received a 2018 Technology & Engineering Emmy Award for my work on MLB's Statcast player tracking system.
+I'm Claudio Silva, Institute Professor of Computer Science and Data Science at New York University, where I direct the [Visualization Imaging and Data Analysis (VIDA) Center](http://vida.engineering.nyu.edu). I'm an ACM Fellow, IEEE Fellow, and recipient of the IEEE Visualization Technical Achievement Award. I also received a 2018 Technology & Engineering Emmy Award for my work on MLB's Statcast player tracking system.
 
 My research spans visualization, visual analytics, machine learning, urban computing, and reproducibility. I enjoy building open-source tools that help others advance their research and solve real-world problems. Some projects I maintain:
 
