@@ -6,12 +6,10 @@ I'm Claudio Silva, Institute Professor of Computer Science and Data Science at N
 
 My research spans visualization, visual analytics, machine learning, urban computing, and reproducibility. I enjoy building open-source tools that help others advance their research and solve real-world problems. Some projects that I've worked on include:
 
-- [VisTrailsJL](https://github.com/ctsilva/VisTrailsJL), a modern Julia reimplementation of VisTrails for scientific workflow and provenance management, preserving 20 years of research from the University of Utah.
+- [VisTrailsJL](https://github.com/ctsilva/VisTrailsJL), (WIP) a modern Julia reimplementation of VisTrails for scientific workflow and provenance management.
 - 🚕 [TaxiVis](https://github.com/ctsilva/TaxiVis), a visual analytics application for exploring NYC taxi trip data using Qt5 and OpenGL.
 - [afront](https://github.com/ctsilva/afront), an advancing front triangulation algorithm for high-quality adaptive surface meshing and remeshing.
 - [ltfs-tools](https://github.com/ctsilva/ltfs-tools), tools for working with Linear Tape File System (LTFS) formatted LTO tapes (Linux and MacOS).
 - [OpenSpace](https://github.com/OpenSpace/OpenSpace), open-source interactive visualization software for space exploration, deployed in 17+ planetariums worldwide. A collaboration with AMNH, Linköping University (Sweden), University of Utah, and others.
-
-More projects coming soon!
 
 📫 Reach me at csilva@nyu.edu
